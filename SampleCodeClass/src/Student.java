@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Testing */
+ * @author Testing Lim Yi Xun*/
 public class Student {
     String name;
     
