@@ -32,6 +32,11 @@ public class Student {
         System.out.println("Testing...");
 
     }
+
+    int countAll() 
+    { 
+        return 0; 
+    }
    
     void testAll()
  {
